@@ -12,5 +12,25 @@ Exemplos Pip :
 pip install (instalar)
 pip uninstall (desistalar)
 pip list (listar bibliotecas)
+pip install --upgrade nome_do_pacote (Atualiza Pacote)
+pip search termo_de_busca (Procurar Pacote)
 
 - Ambientes Virtuais - 
+python3 -m venv <nome do ambiente Virtual>
+source <nome do ambiente Virtual>/bin/activate
+
+- pipenv - 
+
+pip install pipenv (instalar globalmente)
+pipenv install 
+pipenv uninstall
+pipenv lock
+
+- Oque é Poetry -
+è uma ferramenta de ferenciammento de dependencias para python que permite declarar bibliotecas de que seus projetos dependem
+
+pip install Poetry
+poetry new myproject
+cd myproject
+poetry add numpy
+poetry remove numpy
