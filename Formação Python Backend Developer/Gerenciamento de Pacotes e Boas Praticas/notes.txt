@@ -1,0 +1,16 @@
+Gerenciamento de Pacotes, Convenções e Boas Práticas Python
+
+
+- Oque são pacotes em Python - 
+Pacotes são módulos que podem ser instalados e utilizados nos programas python onde voce pode utilizar e baixar codigos feitos por outras pessaos para utilizar no seu projeto. 
+
+- Oque é Pip -
+Pip é o gerenciador de pacotes do python onde ele permitie instalar, atualizar e remover pacotes.
+
+Exemplos Pip :
+
+pip install (instalar)
+pip uninstall (desistalar)
+pip list (listar bibliotecas)
+
+- Ambientes Virtuais - 
