@@ -2,7 +2,7 @@
 
 <img src="./img/Dio_banner.png">
 
-<img src="https://img.shields.io/badge/Status-Em%20Andamento-yellow?style=for-the-badge"/> <img src="https://img.shields.io/badge/Plataforma-Digital%20Innovation%20One-purple?style=for-the-badge"/> <img src="https://img.shields.io/badge/Área-Backend%20%7C%20Dados%20%7C%20Cloud-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/Autor-EditorSpacinho-lightgrey?style=for-the-badge"/> </div>
+<img src="https://img.shields.io/badge/Status-Em%20Andamento-yellow?style=for-the-badge"/> <img src="https://img.shields.io/badge/Plataforma-Digital%20Innovation%20One-purple?style=for-the-badge"/> <img src="https://img.shields.io/badge/Área-Backend%20%7C%20Dados%20%7C%20Cloud-blue?style=for-the-badge"/></div>
 
 ---
 
