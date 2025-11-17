@@ -6,7 +6,7 @@
 
 ---
 
-🧠 Sobre o Repositório
+<h2 align="center"> 🧠 Sobre o Repositório </h2>
 
 Este repositório reúne todos os projetos, desafios, exercícios e anotações realizados em minhas formações e cursos da Digital Innovation One (DIO).
 
@@ -24,7 +24,7 @@ Cada formação possui sua própria pasta, contendo módulos, projetos e materia
 
 ---
 
-📁 Estrutura do Repositório
+## 📁 Estrutura do Repositório
 
     DIO/
     ├── Python_Backend_Developer/
@@ -59,7 +59,7 @@ Cada formação possui sua própria pasta, contendo módulos, projetos e materia
 
 ---
 
-🚀 Objetivo
+<h2 align="center">🚀 Objetivo </h2>
 
 Documentar minha evolução na DIO e criar um portfólio sólido com:
 
@@ -75,12 +75,12 @@ Tudo focado no meu crescimento profissional e domínio das principais áreas de 
 
 ---
 
-🧩 Tecnologias e Ferramentas
+<h2 align="center">🧩 Tecnologias e Ferramentas </h2>
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,aws,git,github,postgres,mysql,vscode,linux"/> </div>
 
 ---
 
-🗓️ Progresso & Atualizações
+<h2 align="center"> 🗓️ Progresso & Atualizações </h2>
 
 📅 Última atualização: Novembro de 2025
 
